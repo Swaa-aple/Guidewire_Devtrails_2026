@@ -27,6 +27,7 @@
 - [System Architecture](#-system-architecture)
 - [Tech Stack](#-tech-stack)
 - [Development Plan](#-development-plan)
+- [UI Mockups and Wireframes](#-ui-mockups-and-wireframes)
 - [Team](#-team)
 
 ---
@@ -389,6 +390,29 @@ fraud_logs    → flagged claim audit trail
 - [ ] Final pitch deck PDF
 
 ---
+
+## UI Mockups and Wireframes
+
+> **Disclaimer:** The visuals below are **UI Mockups and Wireframes**. They represent the architectural logic and intended design aesthetic. The final production UI will be built to match these specifications during Phase 2.
+
+### 🖼️ High-Fidelity Mockups
+| 1. Onboarding | 2. Buy Policy | 3. Live Monitor | 4. Claims | 5. Dashboard |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="UI_MOCKUP_1_URL" width="180" /> | <img src="UI_MOCKUP_2_URL" width="180" /> | <img src="UI_MOCKUP_3_URL" width="180" /> | <img src="UI_MOCKUP_4_URL" width="180" /> | <img src="UI_MOCKUP_5_URL" width="180" /> |
+
+### 🏗️ Structural Wireframes
+| Onboarding Logic | Pricing Engine | Trigger Monitor | Claim Pipeline | Data Summary |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="WIRE_1_URL" width="180" /> | <img src="WIRE_2_URL" width="180" /> | <img src="WIRE_3_URL" width="180" /> | <img src="WIRE_4_URL" width="180" /> | <img src="WIRE_5_URL" width="180" /> |
+
+---
+
+### 🛠️ Design Breakdown
+* **Onboarding:** Collects hyper-local zone data for precise risk monitoring.
+* **Policy Selection:** Displays dynamic premiums calculated by our **Brain.js** neural network.
+* **Live Monitor:** Real-time polling of **OpenWeatherMap** and **AQI** APIs.
+* **Claims:** Automated status tracking for **Razorpay** payouts.
+* **Dashboard:** High-level view of the partner's weekly income protection.
 
 ##  Team — CODE BLOODED 🩸
 
