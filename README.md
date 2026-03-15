@@ -28,6 +28,7 @@
 - [Tech Stack](#-tech-stack)
 - [Development Plan](#-development-plan)
 - [UI Mockups and Wireframes](#-ui-mockups-and-wireframes)
+- [Business Viability](#Business-Viability)
 - [Team](#-team)
 
 ---
@@ -395,24 +396,37 @@ fraud_logs    → flagged claim audit trail
 
 > **Disclaimer:** The visuals below are **UI Mockups and Wireframes**. They represent the architectural logic and intended design aesthetic. The final production UI will be built to match these specifications during Phase 2.
 
-### 🖼️ High-Fidelity Mockups
+###  High-Fidelity Mockups
 | 1. Onboarding | 2. Buy Policy | 3. Live Monitor | 4. Claims | 5. Dashboard |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/cd9860b6-6b8f-4b5d-b06c-6c139e131ad0" width="180" /> | <img src="https://github.com/user-attachments/assets/b9137eb1-4fda-4790-989d-7edd6fa5382b"  width="180" /> | <img src="https://github.com/user-attachments/assets/5885d7a7-dd72-400b-ad55-d6f42ec4c21d" width="180" /> | <img src="https://github.com/user-attachments/assets/16b56ebd-0ca7-4d47-be13-2455e89f580c" width="180" /> | <img src="https://github.com/user-attachments/assets/45fce1d7-2170-40db-88ba-9d61c4cfd92a" width="180" /> |
 
-### 🏗️ Structural Wireframes
+###  Structural Wireframes
 | Onboarding Logic | Pricing Engine | Trigger Monitor | Claim Pipeline | Data Summary |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="WIRE_1_URL" width="180" /> | <img src="WIRE_2_URL" width="180" /> | <img src="WIRE_3_URL" width="180" /> | <img src="WIRE_4_URL" width="180" /> | <img src="WIRE_5_URL" width="180" /> |
+| <img src="https://github.com/user-attachments/assets/8c6afe65-0817-40e6-9516-f90f1e4a7bea"  width="180" /> | <img src="https://github.com/user-attachments/assets/a12579f0-2ffe-4607-bb1d-8d7bb8d01a71" width="180" /> | <img src="https://github.com/user-attachments/assets/8fbcfe21-7d77-4613-9fc0-782232d05204" width="180" /> | <img src="https://github.com/user-attachments/assets/d3bb19be-b84c-4a0a-abcb-a78f684c4c4c" width="180" /> | <img src="https://github.com/user-attachments/assets/57ab8f23-e491-434b-bb1b-755382f1e41a" width="180" /> |
 
 ---
 
-### 🛠️ Design Breakdown
+###  Design Breakdown
 * **Onboarding:** Collects hyper-local zone data for precise risk monitoring.
 * **Policy Selection:** Displays dynamic premiums calculated by our **Brain.js** neural network.
 * **Live Monitor:** Real-time polling of **OpenWeatherMap** and **AQI** APIs.
 * **Claims:** Automated status tracking for **Razorpay** payouts.
 * **Dashboard:** High-level view of the partner's weekly income protection.
+
+##  Business Viability
+
+| Metric | Value |
+|--------|-------|
+| Target Market | 5M+ Q-Commerce delivery partners |
+| Weekly Premium Range | ₹29 - ₹89 per worker |
+| Average Weekly Premium | ₹49 |
+| Target Year 1 Users | 10,000 workers |
+| Year 1 Weekly Revenue | ₹4,90,000/week |
+| Year 1 Annual Revenue | ₹2.5 Crore |
+| Loss Ratio Target | <45% |
+| Customer Acquisition | Via Blinkit/Instamart partner apps |
 
 ##  Team — CODE BLOODED 🩸
 
