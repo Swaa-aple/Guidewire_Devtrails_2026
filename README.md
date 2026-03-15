@@ -27,8 +27,8 @@
 - [System Architecture](#-system-architecture)
 - [Tech Stack](#-tech-stack)
 - [Development Plan](#-development-plan)
-- [UI Mockups and Wireframes](#-UI-Mockup-and-Wireframes)
-- [Business Viability](#-Business-Viability)
+- [UI Mockups and Wireframes](#UI-Mockup-and-Wireframes)
+- [Business Viability](#Business-Viability)
 - [Team](#-team)
 
 ---
