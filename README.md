@@ -19,7 +19,7 @@
 ##  Table of Contents
 - [The Problem](#-the-problem)
 - [Our Solution](#-our-solution)
-- [Our Persona](#-our-persona)
+- [Our Persona](#Our-Persona)
 - [Real Scenarios](#-real-persona-scenarios)
 - [Weekly Premium Model](#-weekly-premium-model)
 - [Parametric Triggers](#-parametric-triggers)
