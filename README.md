@@ -29,7 +29,7 @@
 - [Development Plan](#Development-Plan)
 - [UI Mockups and Wireframes](#UI-Mockup-and-Wireframes)
 - [Business Viability](#Business-Viability)
-- [Team](#Team)
+- [Team](#-team)
 
 ---
 
