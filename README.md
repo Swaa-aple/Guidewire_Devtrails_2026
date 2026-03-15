@@ -398,7 +398,7 @@ fraud_logs    → flagged claim audit trail
 ### 🖼️ High-Fidelity Mockups
 | 1. Onboarding | 2. Buy Policy | 3. Live Monitor | 4. Claims | 5. Dashboard |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="UI_MOCKUP_1_URL" width="180" /> | <img src="UI_MOCKUP_2_URL" width="180" /> | <img src="UI_MOCKUP_3_URL" width="180" /> | <img src="UI_MOCKUP_4_URL" width="180" /> | <img src="UI_MOCKUP_5_URL" width="180" /> |
+| <img src="https://github.com/user-attachments/assets/cd9860b6-6b8f-4b5d-b06c-6c139e131ad0" width="180" /> | <img src="https://github.com/user-attachments/assets/b9137eb1-4fda-4790-989d-7edd6fa5382b"  width="180" /> | <img src="https://github.com/user-attachments/assets/5885d7a7-dd72-400b-ad55-d6f42ec4c21d" width="180" /> | <img src="https://github.com/user-attachments/assets/16b56ebd-0ca7-4d47-be13-2455e89f580c" width="180" /> | <img src="https://github.com/user-attachments/assets/45fce1d7-2170-40db-88ba-9d61c4cfd92a" width="180" /> |
 
 ### 🏗️ Structural Wireframes
 | Onboarding Logic | Pricing Engine | Trigger Monitor | Claim Pipeline | Data Summary |
