@@ -394,7 +394,7 @@ fraud_logs    → flagged claim audit trail
 
 ## UI Mockups and Wireframes
 
-> **Disclaimer:** The visuals below are **UI Mockups and Wireframes**. They represent the architectural logic and intended design aesthetic. The final production UI will be built to match these specifications during Phase 2.
+> **Disclaimer:** The visuals below are **UI Mockups and Wireframes**. They represent the architectural logic and intended design aesthetic. The final production UI may be built to match these specifications during Phase 2.
 
 ###  High-Fidelity Mockups
 | 1. Onboarding | 2. Buy Policy | 3. Live Monitor | 4. Claims | 5. Dashboard |
