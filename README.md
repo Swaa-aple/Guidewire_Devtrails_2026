@@ -19,7 +19,7 @@
 ##  Table of Contents
 - [The Problem](#The-Problem)
 - [Our Solution](#Our-Solution)
-- [Claim Processing — Two Track System](#Claim-Processing-Two-Track-System)
+- [Claim Processing — Two Track System](#claim-processing-two-track-system)
 - [Our Persona](#Our-Persona)
 - [Real Scenarios](#Real-Scenarios)
 - [Weekly Premium Model](#Weekly-Premium-Model)
