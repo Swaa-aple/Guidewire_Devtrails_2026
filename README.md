@@ -109,7 +109,6 @@ Fraud ring patterns found
 → Worker completes face verification
 → Payout released within 4 hours
 → Worker ignores → claim held for review
-```
 
 ---
 
