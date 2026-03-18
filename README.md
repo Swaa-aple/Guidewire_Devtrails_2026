@@ -19,6 +19,7 @@
 ##  Table of Contents
 - [The Problem](#The-Problem)
 - [Our Solution](#Our-Solution)
+- [Claim Processing — Two Track System](#Claim-Processing-Two-Track-System)
 - [Our Persona](#Our-Persona)
 - [Real Scenarios](#Real-Scenarios)
 - [Weekly Premium Model](#Weekly-Premium-Model)
@@ -88,6 +89,27 @@ and Instamart.
 
 **No forms. No assessors. No waiting.
 No rejection drama.**
+
+---
+
+## Claim Processing — Two Track System
+
+**Track 1 — Auto Approved (95% of claims)**
+Worker in verified zone + 
+Low behavioral anomaly score +
+No suspicious signals
+→ Fully automatic payout in 2 hours
+→ Zero worker involvement needed
+
+**Track 2 — Verify and Pay (5% of claims)**
+Suspicious signals detected +
+High behavioral anomaly score +
+Fraud ring patterns found
+→ WhatsApp verification request sent
+→ Worker completes face verification
+→ Payout released within 4 hours
+→ Worker ignores → claim held for review
+```
 
 ---
 
