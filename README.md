@@ -466,7 +466,7 @@ genuinely being affected workers.
 
 ### Q1 — How We Spot Fake GPS vs Real Stranded Worker
 
-#### Layer 1 — Velocity Threshold Detection (Swayam)
+#### Layer 1 — Velocity Threshold Detection
 A genuine delivery partner travels at 
 realistic speeds on Indian roads. 
 A.E.G.I.S tracks real-time speed and 
@@ -483,7 +483,7 @@ Worker appears there in 2 mins = FRAUD
 Worker appears there in 20 mins = Genuine 
 ```
 
-#### Layer 2 — Time Window Presence Verification (Sibaram)
+#### Layer 2 — Time Window Presence Verification
 A.E.G.I.S monitors all workers during a 
 defined time window around each disruption:
 ```
@@ -497,7 +497,7 @@ Teleportation within window = FRAUD
 Consistent presence = Genuine 
 ```
 
-#### Server-Side Tracking (Sibaram Edge Case)
+#### Server-Side Tracking 
 All location data is stored on A.E.G.I.S 
 servers, not the worker's device. Workers 
 are unaware of continuous server pings — 
@@ -513,7 +513,7 @@ Gap under 10 minutes = ignored
 Gap over 30 minutes = investigated 
 ```
 
-#### Layer 3 — Warehouse Radius Verification (Sagar)
+#### Layer 3 — Warehouse Radius Verification
 Every Blinkit/Instamart partner is assigned 
 to a specific dark store warehouse with a 
 defined delivery radius. A.E.G.I.S cross 
@@ -532,7 +532,7 @@ warehouse — minimum 14 days activity
 in new zone before claims accepted there.
 ```
 
-#### Layer 4 — 14 Day Waiting Period for New Workers (Sagar)
+#### Layer 4 — 14 Day Waiting Period for New Workers
 New workers cannot claim for first 14 days.
 
 Just like a new employee doesn't get paid 
@@ -551,7 +551,7 @@ unlock after 14 days of verified
 delivery activity.
 ```
 
-#### Layer 5 — Weighted Trust Score (Shaswat)
+#### Layer 5 — Weighted Trust Score
 Each worker carries a dynamic 
 Weighted Trust Score combining:
 ```
