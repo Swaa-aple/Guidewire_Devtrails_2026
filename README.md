@@ -11,7 +11,7 @@
 > from income loss caused by uncontrollable
 > external disruptions — automatically.
 
- **[Watch our 2-minute pitch video](#https://youtu.be/YSr3nbvE_Ho?si=YXOAgJ3QJpzdKjOK)**
+ **[Watch our 2-minute pitch video](https://youtu.be/YSr3nbvE_Ho?si=YXOAgJ3QJpzdKjOK)**
 
 ---
 
