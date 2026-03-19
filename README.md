@@ -17,22 +17,21 @@
 ---
 
 ##  Table of Contents
-- [The Problem](#The-Problem)
-- [Our Solution](#Our-Solution)
-- [Claim Processing — Two Track System](#claim-processing-two-track-system)
-- [Our Persona](#Our-Persona)
-- [Real Scenarios](#Real-Scenarios)
-- [Weekly Premium Model](#Weekly-Premium-Model)
-- [Parametric Triggers](#Parametric-Triggers)
-- [AI/ML Integration](#AI/ML-Integration)
-- [System Architecture](#System-Architecture)
-- [Tech Stack](#Tech-Stack)
-- [Development Plan](#Development-Plan)
-- [UI Mockups and Wireframes](#UI-Mockup-and-Wireframes)
-- [Business Viability](#Business-Viability)
-- [Adversarial Defense & Anti-Spoofing Strategy](#Adversarial-Defense-&-Anti-Spoofing-Strategy)
-- [Team](#Team)
-
+- [The Problem](#the-problem)
+- [Our Solution](#our-solution)
+- [Claim Processing — Two Track System](#claim-processing--two-track-system)
+- [Our Persona](#our-persona)
+- [Real Scenarios](#real-scenarios)
+- [Weekly Premium Model](#weekly-premium-model)
+- [Parametric Triggers](#parametric-triggers)
+- [AI/ML Integration](#aiml-integration)
+- [System Architecture](#system-architecture)
+- [Tech Stack](#tech-stack)
+- [Development Plan](#development-plan)
+- [UI Mockups and Wireframes](#ui-mockups-and-wireframes)
+- [Business Viability](#business-viability)
+- [Adversarial Defense & Anti-Spoofing Strategy](#adversarial-defense--anti-spoofing-strategy)
+- [Team](#team)
 ---
 
 ##  The Problem
