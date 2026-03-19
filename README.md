@@ -30,7 +30,7 @@
 - [Development Plan](#development-plan)
 - [UI Mockups and Wireframes](#ui-mockups-and-wireframes)
 - [Business Viability](#business-viability)
-- [Adversarial Defense & Anti-Spoofing Strategy](#adversarial-defense--anti-spoofing-strategy)
+- [Adversarial Defense & Anti-Spoofing Strategy (market crash)](#adversarial-defense--anti-spoofing-strategy)
 - [Team](#team)
 ---
 
