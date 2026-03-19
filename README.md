@@ -758,6 +758,49 @@ into a loyalty moment.
 
 ---
 
+### Data Points Analyzed Beyond GPS
+
+| Data Point | What It Reveals |
+|------------|----------------|
+| Device ID | Multiple fake accounts from same phone |
+| Registration IP | Fraud ring registering from same location |
+| UPI Account | Multiple profiles routing to same bank |
+| Blinkit/Instamart app activity | Was worker actually online and working? |
+| Warehouse assignment records | Does worker belong to affected zone? |
+| Claims velocity | 500 claims in 30 seconds = coordinated attack |
+| Historical zone patterns | 14 days of real working location data |
+| Policy purchase timing | Bought insurance right before predicted rain? |
+| Aadhaar KYC records | One identity = one account, no duplicates |
+| Registration timing spike | 500 accounts created in same 72 hour window |
+
+---
+### Special Case — Genuine Network Drop in Bad Weather
+
+This is the most common false positive risk.
+Worker is genuinely stranded.
+Bad weather = bad network.
+App loses signal during the exact 
+event they're trying to claim.
+
+How A.E.G.I.S handles this:
+
+→ Server stores last confirmed 
+  location BEFORE network dropped
+→ Network interruptions in Tier 1/2 
+  cities last seconds to minutes,
+  not hours
+→ When connection restored,
+  real-time location syncs instantly
+→ If last confirmed location = 
+  affected zone = claim approved
+→ Gap under 10 minutes = ignored
+→ Gap over 30 minutes = investigated
+
+Worker never loses their claim
+because of bad weather network drop.
+The server saw them there.
+
+---
 ### Summary
 ```
 GPS Spoofing Defense:
